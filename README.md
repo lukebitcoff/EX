@@ -7,3 +7,12 @@ You can find a playlist of videos about git by [link](https://www.youtube.com/wa
 *HTML
 ﻿﻿*CSS
 ﻿﻿*JavaScript
+
+class Program
+{
+    static void Main()
+    {
+        Console.WriteLine("Hello, C#!");
+    }
+}
+
