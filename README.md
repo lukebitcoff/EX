@@ -8,7 +8,7 @@ You can find a playlist of videos about git by [link](https://www.youtube.com/wa
 ﻿﻿*CSS
 ﻿﻿*JavaScript
 
-class Program
+clas Program
 {
     static void Main()
     {
