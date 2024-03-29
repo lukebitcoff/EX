@@ -9,7 +9,7 @@ You can find a playlist of videos about git by [link](https://www.youtube.com/wa
 
 clas Program
 {
-    static void main(26)
+    static void main(27)
     {
         Console.WriteLine("Hi, C#!");
     }
