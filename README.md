@@ -11,7 +11,7 @@ clas Program
 {
     static void main(15)
     {
-        Console.WriteLine("hi, C#!");
+        Console.WriteLine("hello, C#!");
     }
 }
 
