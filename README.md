@@ -1,4 +1,4 @@
-# EX
+# Hello wrold project
 ## Front-end Developer stack:
 
 Your firstFtask: create a new repository, create a README.nd file and upload another File)
